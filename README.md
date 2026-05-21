@@ -1,6 +1,7 @@
 # BDI
-Materiais de aula de banco de dados I
+Materiais de aula de banco de dados I  
 
+NevraBeta - Ana Clara Silva Oliveira - 11009  
 goncalvesz010 - Antonio Enzo Goncalves - 10959S  
 <arthur nick> - Arthur Almaida Matias - 11018  
 dudubomdebola - Eduardo Mendes Correia Dos Santos - 10935  
